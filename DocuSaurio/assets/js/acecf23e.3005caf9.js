@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_=self.webpackChunk_||[]).push([["3220"],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/DocuSaurio/blog","blogTitle":"Blog","authorsListPath":"/DocuSaurio/blog/authors"}')}}]);
